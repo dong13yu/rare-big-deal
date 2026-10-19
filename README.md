@@ -685,6 +685,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎬 | [AI Genjutsu](https://aigenjutsu.org/) | Transform existing videos with a reference character while preserving the source motion and camera movement. | **50% OFF annual plans** (no code; shown on the pricing page) | Not specified |
 | 📺 | [Screen Studio](https://screen.studio?aff=OzBPe) | Screen Recorder producing high-impact videos automatically. Designed for macOS. | **40% off** 1 year with code **BLACKFRIDAY25** | 2025-12-01 |
 | 🎥 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase | 2025-12-01 |
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
